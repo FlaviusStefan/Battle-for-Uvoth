@@ -1,7 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.SceneManagement; // ok as long as this is the only script that loads scenes
+﻿using UnityEngine;
+using UnityEngine.SceneManagement; 
 
 public class CollisionHandler : MonoBehaviour {
 
